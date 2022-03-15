@@ -1,5 +1,12 @@
 # paypal-js
 
+
+<a href="https://developer.paypal.com/docs/checkout/standard/customize/validate-user-input/">
+    https://developer.paypal.com/docs/checkout/standard/customize/validate-user-input/
+</a>
+
+
+
 ```js
 
 
